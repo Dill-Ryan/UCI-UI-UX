@@ -149,7 +149,7 @@ html {
   }
   
 
-  @media (max-width: 576px) {
+  @media (max-width: 768px) {
     nav ul {
       display: flex;
       flex-direction: column;
@@ -159,7 +159,7 @@ html {
     }
   }
 
-  @media (max-width: 576px) {
+  @media (max-width: 768px) {
     .main{
         max-width: 1400px;
         display: flex;
