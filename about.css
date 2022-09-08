@@ -8,6 +8,11 @@ body {
     font-family: 'Poppins', sans-serif;
   }
   
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 0;
+  }
+
   img.logo{
     background-color:#082B59;
     height: 100px;
