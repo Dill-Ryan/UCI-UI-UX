@@ -204,8 +204,4 @@ html {
       flex-flow: row wrap;
       justify-content: center;
     }
-    footer a {
-      font-size: 1rem;
-      display: block;
-      margin: 0 1rem 3rem 1rem;
-    }
+    
